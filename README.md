@@ -1,4 +1,4 @@
-# Introduction to Python - Jupyter Notebook Lesson
+# Introduction to Python - Jupyter Notebook Lessons
 
 Welcome to the "Introduction to Python" lesson! This Jupyter Notebook is designed to help you get started with Python programming, offering a hands-on learning experience. Whether you are completely new to programming or looking to refresh your knowledge, this lesson will guide you through the basics of Python, a powerful and versatile programming language.
 
